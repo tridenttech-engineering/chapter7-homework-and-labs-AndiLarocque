@@ -29,8 +29,9 @@ int main()
         cout<<fixed <<setprecision(0);
         cout<<endl<<"You sent approximately "<<average <<" text messages per day."<<endl;
 
-        return 0;
-    } //end of main function
+    
 
+    return 0;
+}   //end of main function
 
   
